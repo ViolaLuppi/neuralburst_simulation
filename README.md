@@ -2,6 +2,8 @@
 
 A reproducible Python pipeline for simulating neural activity with transient beta bursts, detecting the bursts with NeuroDSP (`neurodsp-tools.github.io`), and visualizing the results.
 
+NeuroDSP is a toolbox for digital signal processing of neural time series. It also includes simulation tools for generating plausible simulations of neural time series.
+
 ## Purpose
 
 The project demonstrates an analysis workflow for neural burst detection using simulated data.
